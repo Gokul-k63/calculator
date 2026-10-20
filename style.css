@@ -4,7 +4,8 @@
 }
 body {
 
-    background: linear-gradient(to right, #dbeafe, #f0f9ff);
+    /* background: linear-gradient(to right, #dbeafe, #f0f9ff); */
+    background:black;
     color: rgb(255, 255, 255);
     font-family:times new roman;
 }
@@ -32,9 +33,9 @@ div.a {
     margin-top: 50px;
     border: 25px;
     border-color: rgb(7, 6, 6);
-    /*background-color: rgb(7, 6, 6);*/
+    
     background-color:#57c0c2;
-    box-shadow: 0 0 500px rgb(81, 82, 82);
+    /* box-shadow: 0 0 500px rgb(81, 82, 82); */
     width: 300px;
     height: auto;
     margin: auto;
